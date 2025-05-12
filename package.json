@@ -1,5 +1,5 @@
 {
-  "name": "my-v0-project",
+  "name": "triangulos-triangulosos",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -32,6 +32,7 @@
     "recharts": "2.15.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
+    "triangulos-triangulosos": "file:",
     "vaul": "^0.9.6",
     "zod": "^3.24.1"
   },
