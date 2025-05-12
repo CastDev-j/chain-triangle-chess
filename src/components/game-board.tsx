@@ -1,7 +1,7 @@
 "use client"
 
 import { useRef, useEffect } from "react"
-import { useMobile } from "@/hooks/use-mobile"
+import { useMobile } from "@/src/hooks/use-mobile"
 import type { Edge, Triangle } from "./chain-triangle-chess"
 
 type GameBoardProps = {

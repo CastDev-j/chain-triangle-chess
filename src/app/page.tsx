@@ -1,4 +1,4 @@
-import ChainTriangleChess from "@/components/chain-triangle-chess"
+import ChainTriangleChess from "@/src/components/chain-triangle-chess"
 
 export default function Home() {
   return (
